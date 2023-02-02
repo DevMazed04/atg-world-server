@@ -1,0 +1,66 @@
+[
+   {
+     "post_id": "01",
+     "category": {
+      "id": "01",
+      "name": "Article"
+     },
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/cards%2Farticle-1.jpg?alt=media&token=10063c16-a768-4b1b-8912-61d49b45f2d5",
+      "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Sarthak Kamra",
+         "img": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/authors%2Fsarthak.png?alt=media&token=cf51dcb6-0217-4727-8996-bacaa3a98393"
+       },
+       "total_view": "1.4k"
+    },
+
+    {
+      "post_id": "02",
+      "category": {
+         "id": "03",
+         "name": "Education"
+      },
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/cards%2Feducation-1.jpg?alt=media&token=98895f07-803d-437d-a726-71481979a6d8",
+      "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+      "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "author": {
+         "name": "Sarah West",
+         "img": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/authors%2Fsarah.png?alt=media&token=298c82db-740c-45df-9c64-acad2cd6496b"
+       },
+       "total_view": "1.4k"
+    },
+
+    {
+      "post_id": "02",
+      "category": {
+         "id": "05",
+         "name": "Meetup"
+      },
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/cards%2Fmeetup-1.jpg?alt=media&token=8ed8c0d2-d473-49c9-813e-ccaeaca57936",
+      "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+      "date": "Fri, 12 Oct, 2018",
+      "location": "Ahmedabad, India",
+      "author": {
+         "name": "Ronal Jones",
+         "img": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/authors%2Fronal.png?alt=media&token=d16e71ef-26f7-422c-a8f8-fd18b5ee1edd"
+       },
+       "total_view": "1.4k"
+    },
+
+    {
+      "post_id": "04",
+      "category": {
+         "id": "04",
+         "name": "Job"
+      },
+      "title": "Software Developer",
+      "company": "Innovaccer Analytics Private Ltd.",
+      "location": "Noida, India",
+      "author": {
+         "name": "Joseph Gray",
+         "img": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/authors%2Fjoseph.png?alt=media&token=81d6af46-e1f1-4047-8633-61d84a0318e1"
+       },
+       "total_view": "1.4k"
+    }
+]

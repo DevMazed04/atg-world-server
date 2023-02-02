@@ -1,0 +1,22 @@
+[
+   {
+     "id": "01",
+     "name": "Leisure",
+     "image": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/groups%2Fleisure.png?alt=media&token=d22e582a-d151-4921-acf5-2fc3464b88c8"
+   },
+   {
+     "id": "02",
+     "name": "Activism",
+     "image": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/groups%2Factivism.png?alt=media&token=8d609d7f-8983-44ce-804c-86ce19420e87"
+   },
+   {
+     "id": "03",
+     "name": "MBA",
+     "image": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/groups%2Fmba.png?alt=media&token=37415f7b-c349-4beb-9615-c5ad7eddbd2f"
+   },
+   {
+     "id": "04",
+     "name": "Philosophy",
+     "image": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/groups%2Fphilosophy.png?alt=media&token=75791c69-6e41-46be-b673-c6d22e8a4eee"
+   }
+ ]

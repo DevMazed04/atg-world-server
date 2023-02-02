@@ -1,0 +1,22 @@
+[
+   {
+     "id": "01",
+     "name": "Article"
+   },
+   {
+     "id": "02",
+     "name": "Event"
+   },
+   {
+     "id": "03",
+     "name": "Education"
+   },
+   {
+     "id": "04",
+     "name": "Job"
+   },
+   {
+     "id": "05",
+     "name": "Meetup"
+   }
+ ]
