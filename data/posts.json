@@ -32,10 +32,10 @@
     },
 
     {
-      "post_id": "02",
+      "post_id": "03",
       "category": {
          "id": "05",
-         "name": "Meetup"
+         "name": "Event"
       },
       "image_url": "https://firebasestorage.googleapis.com/v0/b/atg-world-61958.appspot.com/o/cards%2Fmeetup-1.jpg?alt=media&token=8ed8c0d2-d473-49c9-813e-ccaeaca57936",
       "title": "Finance & Investment Elite Social Mixer @Lujiazui",
